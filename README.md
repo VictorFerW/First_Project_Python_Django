@@ -12,7 +12,13 @@
 
 7- Para rodar o site apenas inserir esse codigo "python .\manage.py runserver"
 
-8-para criar outro pacote no projeto apenas você insirir "python manage.py startapp polls" o polls é o nome do pacote
+8-Para criar outro pacote no projeto apenas você insirir "python manage.py startapp polls" o polls é o nome do pacote
+
+9-Você deve adicionar o caminho e i include no arquivo url do mysite e criar um arquivo urls.py na pasta polls
+
+10-Para aplicar as migrations que foram criadas você deve inserir "python manage.py migrate"
+
+
 
 
 
